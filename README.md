@@ -5,7 +5,6 @@ This repository showcases my hands-on experience with Amazon Web Services (AWS),
 
 Through these projects, I have gained practical skills in deploying cloud infrastructure, managing storage, and understanding secure network configurations.
 
----
 
 ##  Project 1: EC2 Instance
 
@@ -18,9 +17,8 @@ In this project, I launched and configured an Amazon EC2 instance to understand 
 - Understanding cloud compute services
 
 ### Screenshot
-![EC2 Instance](ec2-instance-running.png)
+![EC2 Instance](ec2-instance.png)
 
----
 
 ##  Project 2: S3 Bucket
 
@@ -35,7 +33,6 @@ In this project, I created and managed an Amazon S3 bucket to explore cloud stor
 ### Screenshot
 ![S3 Bucket](s3-bucket.png)
 
----
 
 ##  Project 3: Amazon VPC Setup
 
@@ -51,7 +48,6 @@ In this project, I created and configured a Virtual Private Cloud (VPC), includi
 ### Screenshot
 ![VPC Setup](vpc-setup.png)
 
----
 
 ##  Skills Demonstrated
 - Cloud Computing Fundamentals
@@ -59,12 +55,10 @@ In this project, I created and configured a Virtual Private Cloud (VPC), includi
 - Basic Cloud Networking
 - Infrastructure Setup
 
----
 
 ##  Next Steps
 I am continuing to expand my cloud computing skills by working on more advanced AWS projects and integrating them with software development and AI concepts.
 
----
 
 ##  Author
 Carolyne Cherono
