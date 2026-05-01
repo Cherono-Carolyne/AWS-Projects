@@ -17,7 +17,7 @@ In this project, I launched and configured an Amazon EC2 instance to understand 
 - Understanding cloud compute services
 
 ### Screenshot
-![EC2 Instance](ec2-instance.png)
+![EC2 Instance](ec2-instance-running.png)
 
 
 ##  Project 2: S3 Bucket
