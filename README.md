@@ -1,4 +1,4 @@
-# AWS Hands-On Projects ☁️
+# AWS Hands-On Projects
 
 ## Overview
 This repository showcases my hands-on experience with Amazon Web Services (AWS), where I have worked on core cloud services including compute, storage, and networking.
@@ -7,7 +7,7 @@ Through these projects, I have gained practical skills in deploying cloud infras
 
 ---
 
-## 🚀 Project 1: EC2 Instance
+##  Project 1: EC2 Instance
 
 ### Description
 In this project, I launched and configured an Amazon EC2 instance to understand how cloud-based virtual servers are deployed and managed.
@@ -18,11 +18,11 @@ In this project, I launched and configured an Amazon EC2 instance to understand 
 - Understanding cloud compute services
 
 ### Screenshot
-![EC2 Instance](ec2-instance.png)
+![EC2 Instance](EC2 Instance running.png)
 
 ---
 
-## 📦 Project 2: S3 Bucket
+##  Project 2: S3 Bucket
 
 ### Description
 In this project, I created and managed an Amazon S3 bucket to explore cloud storage and how data is stored and accessed in AWS.
@@ -37,7 +37,7 @@ In this project, I created and managed an Amazon S3 bucket to explore cloud stor
 
 ---
 
-## 🌐 Project 3: Amazon VPC Setup
+##  Project 3: Amazon VPC Setup
 
 ### Description
 In this project, I created and configured a Virtual Private Cloud (VPC), including subnets, routing, and internet connectivity.
@@ -53,7 +53,7 @@ In this project, I created and configured a Virtual Private Cloud (VPC), includi
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 - Cloud Computing Fundamentals
 - AWS Services (EC2, S3, VPC)
 - Basic Cloud Networking
@@ -61,10 +61,10 @@ In this project, I created and configured a Virtual Private Cloud (VPC), includi
 
 ---
 
-## 📌 Next Steps
+##  Next Steps
 I am continuing to expand my cloud computing skills by working on more advanced AWS projects and integrating them with software development and AI concepts.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 Carolyne Cherono
