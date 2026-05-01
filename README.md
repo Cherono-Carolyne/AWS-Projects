@@ -16,7 +16,6 @@ In this project, I launched and configured an Amazon EC2 instance to understand 
 - Connecting to a virtual server
 - Understanding cloud compute services
 
-### Screenshot
 ![EC2 Instance](ec2-instance-running.png)
 
 
@@ -30,8 +29,7 @@ In this project, I created and managed an Amazon S3 bucket to explore cloud stor
 - Uploading and managing files
 - Understanding cloud storage concepts
 
-### Screenshot
-![S3 Bucket](s3-bucket.png)
+![S3 Bucket](s3-bucket-created.png)
 
 
 ##  Project 3: Amazon VPC Setup
@@ -45,7 +43,6 @@ In this project, I created and configured a Virtual Private Cloud (VPC), includi
 - Internet Gateway and route tables
 - Basics of cloud networking and security
 
-### Screenshot
 ![VPC Setup](vpc-setup.png)
 
 
