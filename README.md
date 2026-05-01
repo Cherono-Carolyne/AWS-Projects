@@ -43,7 +43,7 @@ In this project, I created and configured a Virtual Private Cloud (VPC), includi
 - Internet Gateway and route tables
 - Basics of cloud networking and security
 
-![VPC Setup](vpc-setup.png)
+![VPC Setup](vpc-configured.png)
 
 
 ##  Skills Demonstrated
