@@ -58,6 +58,11 @@ In this Project, I used Amazon VPC to establish a private secure connection to A
 - Create access key ID through IAM.
 - Connect to AWS services through the CLI
 
+![VPC created](vpc-created.png)
+![S3 bucket created](instance-running.png)
+![EC2 instance running](instance-running.png)
+![Command line interface](cli.png)
+
   
 
 
