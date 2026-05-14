@@ -59,8 +59,8 @@ In this Project, I used Amazon VPC to establish a private secure connection to A
 - Connect to AWS services through the CLI
 
 ![VPC created](vpc-created.png)
-![S3 bucket created](instance-running.png)
 ![EC2 instance running](instance-running.png)
+![S3 bucket created](s3-bucket-objects.png)
 ![Command line interface](cli.png)
 
   
