@@ -46,16 +46,28 @@ In this project, I created and configured a Virtual Private Cloud (VPC), includi
 ![VPC Setup](vpc-configured.png)
 
 
+##  Project 4: Assess AWS Services through VPC
+
+### Description
+In this Project, I used Amazon VPC to establish a private secure connection to Amazon S3
+
+### Key Learnings
+- VPC creation and configuration
+- Launch EC2 inside the VPC
+- Create an S3 bucket and upload objects
+- Create access key ID through IAM.
+- Connect to AWS services through the CLI
+
+  
+
+
 ##  Skills Demonstrated
 - Cloud Computing Fundamentals
 - AWS Services (EC2, S3, VPC)
 - Basic Cloud Networking
 - Infrastructure Setup
 
-##  Project 4: Assess AWS Services through VPC
 
-### Description
-In this Project, I used Amazon VPC to establish a private secure connection to Amazon S3
 
 
 ##  Next Steps
