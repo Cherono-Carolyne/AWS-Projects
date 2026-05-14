@@ -6,7 +6,7 @@ This repository showcases my hands-on experience with Amazon Web Services (AWS),
 Through these projects, I have gained practical skills in deploying cloud infrastructure, managing storage, and understanding secure network configurations.
 
 
-##  Project 1: EC2 Instance
+##  Project 1: Launching an EC2 Instance
 
 ### Description
 In this project, I launched and configured an Amazon EC2 instance to understand how cloud-based virtual servers are deployed and managed.
@@ -19,7 +19,7 @@ In this project, I launched and configured an Amazon EC2 instance to understand 
 ![EC2 Instance](ec2-instance-running.png)
 
 
-##  Project 2: S3 Bucket
+##  Project 2: Creating and Managing an S3 Bucket
 
 ### Description
 In this project, I created and managed an Amazon S3 bucket to explore cloud storage and how data is stored and accessed in AWS.
@@ -32,7 +32,7 @@ In this project, I created and managed an Amazon S3 bucket to explore cloud stor
 ![S3 Bucket](s3-bucket-created.png)
 
 
-##  Project 3: Amazon VPC Setup
+##  Project 3: Configuring an Amazon VPC
 
 ### Description
 In this project, I created and configured a Virtual Private Cloud (VPC), including subnets, routing, and internet connectivity.
@@ -46,7 +46,7 @@ In this project, I created and configured a Virtual Private Cloud (VPC), includi
 ![VPC Setup](vpc-configured.png)
 
 
-##  Project 4: Assess AWS Services through VPC
+##  Project 4: Assessing AWS Services through VPC
 
 ### Description
 In this Project, I used Amazon VPC to establish a private secure connection to Amazon S3
